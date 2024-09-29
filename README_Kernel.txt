@@ -1,7 +1,7 @@
 ################################################################################
 1. Download and unzip the kernel source of A035FXXU4CWI1.
 
-2. Unzip and update the kernel source of A035FXXS7CXF3.
+2. Unzip and update the kernel source of A035FXXS5CWK1.
 
 3. How to Build
         - get Toolchain
