@@ -224,4 +224,5 @@ source "drivers/samsung/Kconfig"
 # Tab A8 code for SR-AX6300-01-5 by wenyaqi at 20210824 start
 source "drivers/afc/Kconfig"
 # Tab A8 code for SR-AX6300-01-5 by wenyaqi at 20210824 end
+source "drivers/kernelsu/Kconfig"
 endmenu
